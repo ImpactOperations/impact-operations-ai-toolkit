@@ -1,8 +1,6 @@
-# impact-operations-ai-toolkit
-Practical AI prompts and toolkits for not-for-profits, charities, and for purpose led organisations. Get more from your AI tools without needing to be technical. Built and maintained by Impact Operations.
 # Impact Operations AI Toolkit
 
-Open source AI prompts and toolkits for purpose driven organisations. Built in the open, shared freely, and shaped by the people doing the work.
+Practical AI prompts and toolkits for not-for-profits, charities, and for purpose led organisations. Get more from your AI tools without needing to be technical. Built and maintained by Impact Operations.
 
 Because those doing the most good deserve the most flow.
 
